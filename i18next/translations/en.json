@@ -1,0 +1,26 @@
+{
+  "welcome": {
+    "introduction": "The newly opened Lux company presents you the Lux Shop, where you can buy various items, as well as from your favorite stores or restaurants with just one tap. Lux Shop still operates only in Stepanakert. Well, let's choose Artsakh products !",
+    "welcome": "Welcome To Lux Shop!"
+  },
+  "sign": {
+    "verifyTitle": "Enter The Verification Code",
+    "phone": "Enter Your Phone Number",
+    "username": "Username",
+    "send": "Send Code",
+    "verify": "Verify",
+    "avatar": "Avatar",
+    "choose": "Choose"
+  },
+  "avatars": {
+    "Girl": "Girl",
+    "Hero": "Male",
+    "Boy": "Boy"
+  },
+  "errors": {
+    "sign": {
+      "validnum": "Please enter a valid number !",
+      "validName": "minimum 3 characters"
+    }
+  }
+}

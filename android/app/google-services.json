@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988623967630",
+    "project_id": "luxshop-1e200",
+    "storage_bucket": "luxshop-1e200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988623967630:android:8800e76610a7105b66c0df",
+        "android_client_info": {
+          "package_name": "com.luxshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988623967630-fp62ffe3ruf0o9624f0i8sg95s774mhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-kMfw68-huQLBlG0S0T6XAgL0kWSArwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988623967630-fp62ffe3ruf0o9624f0i8sg95s774mhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
